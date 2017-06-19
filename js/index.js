@@ -144,8 +144,8 @@ $(function(){
 
     function check_info(uri1,uri2) {
         //获取app_id和app_key
-        var aid = '6b628d50d3a045b8b9f7a3db9b7cd544';
-        var akey = '8ed3d0cfa21b4c378a96f7f678d2654c';
+        var aid = 'b484e3f8310d40c8a55becb645059fca';
+        var akey = '711fccd4091649cfb8072f831fff1751';
         jQuery.ajax({
             type: "POST",
             url: "http://api.eyekey.com/face/Check/checking",//检测有效后会由系统生成唯一的face_id
