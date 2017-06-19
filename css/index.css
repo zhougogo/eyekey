@@ -171,7 +171,7 @@
 }
 .page4 .photo img,.page7 .photo img{
 	width: 283px;
-	height: 327px;
+	/*height: 327px;*/
 	margin-top: 30px;
 	margin-left: 40px;
 }
@@ -213,7 +213,7 @@
 .page8 .img{
 	position: absolute;
 	width: 114px;
-	height: 130px;
+	/*height: 130px;*/
 	top: 432px;
 }
 .page8 .forward{
